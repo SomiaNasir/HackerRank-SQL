@@ -10,4 +10,4 @@
 
 |Problem | Solution | Difficulty |
 |--------|----------|------------|
-|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[revising-the-select-query.sql]()|Easy|
+|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[revising-the-select-query.sql](https://github.com/SomiaNasir/HackerRank/blob/main/SQL/revising-the-select-query.sql)|Easy|
