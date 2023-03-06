@@ -6,6 +6,6 @@ if __name__ == '__main__':
     z = int(input())
     n = int(input())
     
-    lst = [[a, b, c] for a in range(x+1) for b in range(y+1) for c in range(z+1) if sum([a,b,c]) != n]
+    lst = [[i, j, k] for i in range(x+1) for j in range(y+1) for k in range(z+1) if sum([i, j, k]) != n]
     
     print(lst)
