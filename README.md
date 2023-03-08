@@ -30,4 +30,4 @@ My profile : [Somia Nasir](https://www.hackerrank.com/somianasir54)
 
 |Challenge|Solution|Difficulty|Subdomain|
 |---------|--------|----------|---------|
-|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|[revising-aggregations-the-count-function.sql](https://github.com/SomiaNasir/HackerRank/blob/main/02.%20Aggregation/001.%20revising-aggregations-the-count-function)|Easy|Aggregation|
+|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|[revising-aggregations-the-count-function.sql](https://github.com/SomiaNasir/HackerRank/blob/main/02.%20Aggregation/001.%20revising-aggregations-the-count-function.sql)|Easy|Aggregation|
