@@ -31,3 +31,8 @@ My profile : [Somia Nasir](https://www.hackerrank.com/somianasir54)
 |Challenge|Solution|Difficulty|
 |---------|--------|----------|
 |[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|[revising-aggregations-the-count-function.sql](https://github.com/SomiaNasir/HackerRank/blob/main/02.%20Aggregation/001.%20revising-aggregations-the-count-function.sql)|Easy|
+|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|[revising-aggregations-sum.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/002.%20revising-aggregations-sum.sql)|Easy|
+|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[revising-aggregations-the-average-function.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/003.%20revising-aggregations-the-average-function.sql)|Easy|
+|[average-population](https://www.hackerrank.com/challenges/average-population/problem)|[average-population.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/004.%20average-population.sql)|Easy|
+|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[japan-population.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/005.%20japan-population.sql)|Easy|
+|[population-density-difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[population-density-difference.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/006.%20population-density-difference.sql)|Easy|
