@@ -45,4 +45,6 @@ My profile : [Somia Nasir](https://www.hackerrank.com/somianasir54)
 |[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|[weather-observation-station-16.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/013.%20weather-observation-station-16.sql)|Easy|
 |[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|[weather-observation-station-17.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/014.%20weather-observation-station-17.sql)|Easy|
 |[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|[weather-observation-station-18.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/015.%20weather-observation-station-18.sql)|Medium|
-|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[weather-observation-station-19.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/016.%20weather-observation-station-19.sql)|Medium|
+|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[weather-observation-station-19.sql](https://github.com/SomiaNasir/HackerRank-SQL/blob/main/02.%20Aggregation/016.%20weather-observation-station-19.sql)|Medium|  
+
+to be continued ...
